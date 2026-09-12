@@ -6,7 +6,6 @@
 .formatoheader {
   /* display: flex;
   justify-content: space-between; */
-  
   background-color: brown;
   img {
     width: 150px;
@@ -28,4 +27,7 @@
 .btn-primary {
   background-color: white;
   color: black;
+}
+.text-center {
+  margin-top: 50px;
 }
